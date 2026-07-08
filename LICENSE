@@ -1,0 +1,28 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Copyright (c) 2026 Guangyu Wang (王广宇)  <billgywang@gmail.com>
+
+This work — the papers, figures, and accompanying code in this repository,
+collectively "Sharp Thresholds in Reward Hacking" — is licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0).
+
+You are free to:
+  * Share  — copy and redistribute the material in any medium or format;
+  * Adapt  — remix, transform, and build upon the material for any purpose,
+             even commercially.
+
+Under the following terms:
+  * Attribution — You must give appropriate credit to Guangyu Wang, provide a
+    link to the license, and indicate if changes were made. You may do so in any
+    reasonable manner, but not in any way that suggests the licensor endorses you
+    or your use.
+  * No additional restrictions — You may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license permits.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Papers covered:
+  - One Threshold, Five Faces (overview and synthesis)
+  - The Cliff Becomes a Catastrophe: Saddle-Node Reward Hacking under Sharp Monitoring
+  - A Closed-Loop Controller for Reward Hacking: Critical Slowing Down and Nonsmooth Damping
+  - Collective Intent Drift: Weakest-Link Cascades and a Disorder-Induced Critical Endpoint
